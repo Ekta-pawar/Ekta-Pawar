@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**Ekta-pawar/Ekta-Pawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+# 💫 About Me:
 Full-Stack Developer | React.js | Node.js | Express.js | PostgreSQL<br><br>I’m a Full-Stack Developer passionate about building scalable, responsive, and user-friendly web applications.<br><br>1.Frontend: React.js, JavaScript, HTML, CSS, Tailwind CSS, Redux Toolkit<br>2. Backend: Node.js, Express.js, REST APIs, JWT Authentication, Prisma<br>3.Database: PostgreSQL, MySQL, MongoDB<br>4.Tools & DevOps: Git, GitHub, Docker, Postman, Cloudinary<br>5.Currently focusing on Backend Development, System Design, DSA, and scalable application architecture.<br><br>I enjoy solving real-world problems through clean, maintainable code and continuously improving my development skills.<br>
 
 
@@ -24,10 +16,3 @@ Full-Stack Developer | React.js | Node.js | Express.js | PostgreSQL<br><br>I’m
 [![](https://komarev.com/ghpvc/?username=Ekta Pawar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
